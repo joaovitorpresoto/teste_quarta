@@ -6,10 +6,9 @@ h1 {border-color: blueviolet;
 }
 
 
-#parte02 {background-color: blueviolet;
+.parte02 {background-color: blueviolet;
 }
-#parte01 {background-color: bisque;
-}
+
 .parte01{background-color: aquamarine;
 }
-#parte01{font-size: 200%;}
+.parte01{font-size: 200%;}
